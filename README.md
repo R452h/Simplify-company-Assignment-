@@ -166,8 +166,18 @@ This project demonstrates how an AI-like assistant can guide users from asking a
 
 
 ## Screenshot 
-<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/8252dec7-4c9f-452c-bf72-d916c96cd3a2" />
 
-<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/606d08d2-213e-4e52-bc21-93372c2293ec" />
+
+<img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/bffd3917-c140-4296-9a8d-9fdf253be5c3" />
+
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/55a69142-0f1f-4875-b125-3d8a6eb754a5" />
+
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/2691ad9f-c2aa-472b-b7ad-5ddafe648d13" />
+
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/24c1e211-056b-450d-8d71-f6c0ca1f16d2" />
+
+
+
+
 
 
