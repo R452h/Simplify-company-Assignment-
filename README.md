@@ -164,6 +164,10 @@ Some possible improvements for this project include:
 
 This project demonstrates how an AI-like assistant can guide users from asking an investment question to completing a digital gold purchase through APIs. The implementation is simple but shows how conversational systems can be connected with backend services in financial applications.
 
----
 
-If you want, I can also give you **a perfect GitHub folder structure for this project (which makes your repo look much more professional)**.
+## Screenshot 
+<img width="1920" height="1080" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/8252dec7-4c9f-452c-bf72-d916c96cd3a2" />
+
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/606d08d2-213e-4e52-bc21-93372c2293ec" />
+
+
